@@ -1,1 +1,2 @@
-alert("Hello user!")
+// alert("Hello user!")
+console.log("hello from js")
